@@ -1,8 +1,11 @@
-# 🌟 Amny - AI Chatbot for Career Guidance
+# 🤖 Amny - AI Chatbot for Career Guidance
+🚀 Your Smart Partner in Shaping Your Future
 
-**Amny** is an AI-powered chatbot designed to guide users through their career journey. Whether you're looking for jobs, mentorship opportunities, or local events, Urbot is here to help—quickly, smartly, and efficiently.
 
----
+# ✨ About Amny
+
+**Amny** is an AI-powered chatbot crafted to guide you through every step of your career journey.
+Whether you're searching for jobs, mentorship opportunities, or local events, Amny is here to assist—fast, smart, and easy!
 
 ## 🚀 Main Features
 
@@ -13,17 +16,16 @@
 - Helps new users register with ease and onboard quickly to start exploring opportunities.
 
 ### ❓ Smart FAQ Assistant
-- Instantly answers frequently asked questions, reducing the need for manual support.
+- Instant answers to frequently asked questions—no more waiting for support.
 
 ### 👤 Profile Management
-- Enables users to update their profile information in real time, ensuring their data stays current.
+- Update your profile anytime to keep your career journey up-to-date.
 
 ### 🌐 Real-Time Opportunities via External APIs
-- **Job Listings:** Displays the most relevant and up-to-date job opportunities based on user preferences.
-- **Mentorship Programs:** Helps users access career mentorships to grow their skills and network.
-- **Community Events:** Connects users to nearby events, workshops, and networking opportunities.
+- **Job Listings:** Get the most relevant and latest job opportunities.
+- **Mentorship Programs:** Access mentorships to enhance your skills and network.
+- **Community Events:** Discover workshops, networking events, and more near you.
 
----
 
 ## 🛠️ Setup Instructions
 
@@ -31,24 +33,34 @@
 
 ```bash
 pip install -r requirements.txt
-2️⃣ Run the Application
+```
+
+### 2️⃣ Run the Application
+```bash
 python app.py
-3️⃣ Access in Browser
+```
+
+### 3️⃣ Access in Browser
+```bash
 Open the following URL in your browser:
 https://amny.amandliya.com
+```
 
-📦 Deployment Options
-🔹 Deploy on Heroku
+## 📦 Deployment Options
+
+### 🔹 Deploy on Heroku
+
+```bash
 git init
 heroku create
 git add .
 git commit -m "Initial commit"
 git push heroku master
+```
 
-
-📬 Contact
-📧 Email: purvapr13@gmail.com
-📧 Email: khatri.bhavya22@gmail.com
+## 📬 Contact
+- 📧 **Email:** purvapr13@gmail.com  
+- 📧 **Email:** khatri.bhavya22@gmail.com
 
 
 
